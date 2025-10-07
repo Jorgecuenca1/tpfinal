@@ -276,18 +276,7 @@ jupyter nbconvert --to pdf notebooks/TRABAJO_FINAL_COMPLETO.ipynb
 
 ---
 
-## 🎯 CHECKLIST FINAL ANTES DE ENTREGAR
 
-- [x] Notebook ejecuta sin errores
-- [x] Todas las gráficas se generan correctamente
-- [x] Información del estudiante actualizada
-- [x] Código está comentado
-- [x] Conclusiones están completas
-- [x] Datos están incluidos
-- [x] requirements.txt está actualizado
-- [x] README está completo
-- [ ] Revisión final de ortografía (hacer antes de entregar)
-- [ ] Exportar a PDF (opcional pero recomendado)
 
 ---
 
